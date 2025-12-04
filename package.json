@@ -2,6 +2,7 @@
   "name": "chat-app",
   "version": "0.1.0",
   "private": true,
+    "homepage": "/",
   "dependencies": {
     "@supabase/supabase-js": "^2.86.0",
     "react": "^19.2.0",
